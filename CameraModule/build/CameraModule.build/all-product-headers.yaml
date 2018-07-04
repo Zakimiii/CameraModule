@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Library/Developer/Xcode/DerivedData/CameraModuleProject-edcjmaxfkdyajkgcvmhhpwvsbpou/Build/Products/Debug-iphonesimulator/CameraModule.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CameraModule-Swift.h",
+          'external-contents': "/Users/apple/Library/Developer/Xcode/DerivedData/CameraModuleProject-edcjmaxfkdyajkgcvmhhpwvsbpou/Build/Products/Debug-iphonesimulator/CameraModule.framework/Headers/CameraModule-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CameraModule.h",
+          'external-contents': "/Users/apple/projects/utility/CameraModule/CameraModule/CameraModule.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Library/Developer/Xcode/DerivedData/CameraModuleProject-edcjmaxfkdyajkgcvmhhpwvsbpou/Build/Products/Debug-iphonesimulator/CameraModule.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/projects/utility/CameraModule/build/CameraModule.build/Debug-iphonesimulator/CameraModule.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

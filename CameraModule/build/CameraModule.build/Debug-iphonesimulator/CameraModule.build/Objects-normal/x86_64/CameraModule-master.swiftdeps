@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "a6b8ad8658b2f7be2819c18aa4bc4f1b"
+build_time: [1530255780, 132749000]
+inputs:
+  "/Users/apple/projects/utility/CameraModule/CameraModule/CameraModule.swift": [1530254574, 0]

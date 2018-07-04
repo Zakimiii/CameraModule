@@ -1,0 +1,10 @@
+framework module CameraModule {
+  umbrella header "CameraModule.h"
+
+  export *
+  module * { export * }
+}
+
+module CameraModule.__Swift {
+    exclude header "CameraModule-Swift.h"
+}
